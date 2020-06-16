@@ -5,6 +5,7 @@ Source: https://github.com/stlink-org/stlink
 Disclaimer:
 Comment:
 Files: *
+Files-Excluded: stlinkv1_macos_driver
 Copyright: 2011-2020 stlink-org
     Martin Capitanio [capnm]
     Fabien Le Mentec [texane]

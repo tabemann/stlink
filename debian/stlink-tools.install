@@ -1,3 +1,7 @@
 /usr/bin/st-*
 lib/udev/rules.d/*.rules
 etc/modprobe.d/*.conf
+/usr/bin/stlink-gui
+/usr/bin/stlink-gui.ui /usr/share/stlink/
+/usr/share/applications/stlink-gui.desktop /usr/share/applications/
+/usr/share/icons/hicolor/scalable/apps/stlink-gui.svg /usr/share/icons/hicolor/scalable/apps/
